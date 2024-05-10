@@ -1,0 +1,94 @@
+-----------------INSTRUCTION-----------------
+
+You are a Dreamwalker, lost in a mysterious Labyrinth.
+Your goal is to find all the twelve Oneiric doors to escape!
+There are 3 ways you can follow to discover a door, which will be mentioned in section 4, 6 and 8.
+
+1. COMPONENTS:
+
+    - Location cards (66 cards):
+    These are the cards you will have in your hand. Play and discard them skillfully in order to obtain the Door cards.
+
+    - Door cards (12 cards):
+    The 12 oneiric Doors are the object of your quest: opening all 12 Doors is the victory condition of the game.
+
+    - Dream cards (10 cards):
+    Nightmare cards are the only type of Dream card in this expansion. 
+    They are also shuffled within the deck of cards, and will force you to choose one penalty once you draw such a card.
+
+2. DECK CONTENT:
+
+    Red location:   9 Sun, 4 Moon, 2 Glyph, 3 Key
+    Blue location:  8 Sun, 4 Moon, 2 Glyph, 3 Key
+    Green location: 7 Sun, 4 Moon, 2 Glyph, 3 Key
+    Brown location: 6 Sun, 4 Moon, 2 Glyph, 3 Key
+    Door:           2 Red, 2 Blue, 2 Green, 2 Brown
+    Dream:          10 Nightmare
+
+3. THE LABYRINTH:
+
+    The labyrith is yours to build. Everytime you play a card, this card is placed at the end of the Labyrinth.
+    There is one golden rule: the card played may not have any symbol (Sun, Moon, Glyph and Key) in common with the last card played.
+    In this version, the Labyrinth area is located on the leftmost side of the window screen.
+
+4. DISCOVERING DOORS:
+
+    If the card just played is the third in a row of the same color, you obtain a Door card of that color.
+    This Door card is taken from the deck and the deck will be reshuffled right after.
+    If a card is the fourth in a row of the same color, it counts as the first card of a new series of the same color.
+
+5. GAME TURN:
+
+    Once you have five cards in hand, you got two options: Either you play a card on the Labyrinth or you discard a card.
+    If you discard a Glyph or a Key card, you will trigger a special event, which will be mentioned in section 7 and 8.
+
+6. CARD DRAWING:
+
+    After you made an action, a card will automatically be drawn from the deck to your hand. There are 3 possible cases:
+        - Location cards will be placed in your hand.
+        - Dream cards will trigger a bad event that you will need to resolve immediately (section 9).
+        - Door cards will be sent to the Limbo right away unless you have a key of the same color in your hand.
+    If you are in third case, you have choice to discover the Door immediately by discarding that key.
+
+7. PROPHECY:
+
+    If you discard a location card with Key symbol on it, you trigger a Prophecy.
+    During a prophecy, you will:
+        - Look at the top five cards of the deck,
+        - Discard one of them,
+        - And place the 4 remaining cards back on top of the deck in which order you choose.
+    If there are less than 5 cards remaining in the deck, all those cards will be revealed and you still need to do the same thing as above.
+    BE CAREFUL: If all drawn cards are Doors, since it is mandatory that you discard a card, you will automatically lose the game.
+
+8. INCANTATION:
+
+    If you discard a location card with Glyph symbol on it, you trigger an Incantation.
+    During an incantation, you will:
+        - Look at the top five cards of the deck,
+        - Discover one of the doors among them (if any),
+        - And place the 4 or 5 remaining cards back on bottom of the deck in which order you choose.
+    If there are less than 5 cards remaining in the deck, all those cards will be revealed and you still need to do the same thing as above.
+    The color of the Door card and the color of the discarded Glyph card do not need to be the same.
+
+9. NIGHTMARES:
+
+    When you draw a nightmare card, you have to choose one of the following four options:
+        - Discard a Key card from you hand.
+        - Discard your whole hand and draw five new Location cards from the deck. Door and Dream cards are placed into the Limbo.
+        - Reveal the top five cards from the deck and discard all of them, except Door and Dream cards, which are placed into the Limbo.
+        - Send one of your discovered Door cards to the Limbo.
+
+10. THE LIMBO:
+
+    The Limbo is a temporary space for cards that are going to be reshuffled in the deck at the end of the turn.
+    In this version, the Limbo area is located on the bottom right corner of the window screen.
+
+11. DECK RESHUFFLING:
+
+    The deck is reshuffled when you discover a Door by placing three cards of the same color in a row on the Labyrinth
+    OR when your hand is full of Location cards while there are cards in the Limbo.
+
+12. END GAME:
+
+    - Victory: You win if, at any point, all 12 Door cards have been discovered.
+    - Defeat: You lose if you must draw a card to fill your hand and there is no card left in the deck.
